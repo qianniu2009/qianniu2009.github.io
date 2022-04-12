@@ -1,0 +1,1 @@
+document.write("<img src='static/gzh.png' height='1080' weight='1920' alt='' />");
